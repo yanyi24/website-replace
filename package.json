@@ -1,0 +1,24 @@
+{
+  "name": "website-replace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanyi24/website-replace.git"
+  },
+  "author": "yanyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanyi24/website-replace/issues"
+  },
+  "homepage": "https://github.com/yanyi24/website-replace#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "webpack": "^4.2.0",
+    "webpack-cli": "^2.0.13"
+  }
+}
