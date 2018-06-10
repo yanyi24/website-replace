@@ -27,8 +27,8 @@
                 <!-- LOGO -->
               </span>
               <span class="logo-txt">
-                <strong>AOMEI</strong>
-                <i>Partition Assistant</i>
+                <strong>{b1}</strong>
+                <i>{b2}</i>
               </span>
             </a>
           </div>
@@ -36,7 +36,7 @@
             <div class="nav-top">
               <ul>
                 <li>
-                  <a href="/">HOME</a>
+                  <a href="/">{b3}</a>
                 </li>
                 <li>
                   <a href="/changelog.html">CHANGELOGS</a>

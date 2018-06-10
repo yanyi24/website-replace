@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{title}</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="{keywords}">
+	<meta name="description" content="{description}">
+    <meta name="robots" content="index,follow,all" />
+    <meta name="google-site-verification" content="KhfQx9eX45VQXt-a2yhflTboZgJIvXfy__pWi08WnuA" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+	<link rel="canonical" href="{canonical}">
+	<!--css-->
+	<link rel="shortcut icon" type="image/x-icon" href="am.ico">
+	<link rel="bookmark" type="image/x-icon" href="am.ico"/>
+	<link rel="stylesheet" href="public/css/main.css"/>
+	<link rel="stylesheet" href="css/company.css"/>
+	<!--css end-->
+</head>
+<body>
+<div id="header">
+  <div class="center-block">
+    <div class="container">
+      <div id="logo">
+      	<a href="index.html" class="safari-hack"><span class="logo-pic inline-block"></span><span class="logo-txt inline-block"><strong>AOMEI</strong><i>Backupper</i></span></a>
+      </div>
+      <div id="nav">
+      	<div class="nav-top">
+      		<ul class="menu">
+      			<li><a href="index.html">HOME</a></li>
+      			<li><a href="personal.html">FREEWARE</a></li>
+      			<li><a href="changelog.html">CHANGELOGS</a></li>
+      			<li><a href="edition-comparison.html">COMPARE</a></li>
+      			<li><a href="help/index.html">HELP DOCUMENTS</a></li>
+      			<li><a href="contact-us.html">CONTACT US</a></li>
+      		</ul>
+      		<form action="search.html">
+      			<input type="hidden" name="cx" value="004801521277539938488:n5gbjggzxpi"/>
+      			<input type="text" name="gg-search" id="gg-search" value="" autocomplete="off"/><input type="submit" name="" id="gg-search-btn" class="gg-search-btn" value="" />
+      		</form>
+      		<div id="language-choice">
+      			<p>English</p>
+      			<ul>
+      				<li><a>Deutsch</a></li>
+      				<li><a>Français</a></li>
+      				<li><a>Italiano</a></li>
+      				<li><a>日本語</a></li>
+      				<li><a>繁體中文</a></li>
+      			</ul>
+      		</div>
+      	</div>
+      	<div class="nav-bottom">
+      		<div class="mobile-menu"><img src="public/images/menu.png"/></div>
+      		<ol class="menu">
+      			<li class="mobile-nav-close"><a href="purchase.html">STORE</a></li>
+      			<li class="show">
+      				<a href="personal.html">FOR HOME</a>
+      				<div class="hide-content hide-content1">
+      					<div class="wrapper">
+	      					<dl class="eq1 hover-bg2">
+	      						<dt>AOMEI Backupper For Home</dt>
+	      						<dd class="hover-bg1"><a class="icon-free" href="free-backup-software.html">AOMEI Backupper Standard</a><a href="http://www.aomeisoftware.com/download/adb/BackupperFull.exe" target="_blank" class="bg1"></a><a href="standard-upgrade.html?drop-menu" class="up"></a></dd>
+	      						<dd><a href="professional.html">AOMEI Backupper Professional</a><a href="buy-ab-pro.html?drop-menu" class="bg">Buy</a><a href="http://www.aomeisoftware.com/download/adb/ABPro.exe" target="_blank" class="bg bg2">Try</a></dd>
+	      						<dd><a href="edition-comparison.html">Edition Comparison</a></dd>
+	      					</dl>
+	      					<dl class="last">
+	      						<dt class="ic">Utilities For Backup</dt>
+	      						<dd class="hover-bg1"><a href="okr-free.html">AOMEI OneKey Recovery</a><a href="http://www.aomeisoftware.com/download/ok/OneKeyFree.exe" target="_blank" class="bg1"></a><a href="onekey/upgradeto.html" class="up"></a></dd>
+	      						<dd><a href="personal.html">AOMEI Freeware Recommendation</a></dd>	      						
+	      					</dl>	      					
+      					</div>     					
+      					<div class="buy-msg">
+      						<p>For unlimited PCs and servers within your company, and also can be used to provide charged technical services to your customers.</p>
+      						<a href="technician.html" class="more more-bg">Learn More</a>
+      					</div>
+      				</div>
+      			</li>
+      			<li class="show">
+      				<a href="business.html">FOR BUSINESS</a>
+      				<div class="hide-content hide-content4" >
+      					<div class="wrapper">
+	      					<dl class="eq1 hover-bg2">
+	      						<dt class="ic">AOMEI Backupper For Business</dt>
+	      						<dd><a href="professional.html">AOMEI Backupper Professional</a><a class="bg" href="buy-ab-pro.html?drop-menu">Buy</a><a class="bg bg2" href="http://www.aomeisoftware.com/download/adb/ABPro.exe" target="_blank">Try</a></dd>
+	      						<dd><a href="server.html">AOMEI Backupper Server</a><a class="bg" href="buy-ab-server.html?drop-menu">Buy</a><a class="bg bg2" href="http://www.aomeisoftware.com/download/adb/ABServer.exe" target="_blank">Try</a></dd>
+	      						<dd><a href="technician.html">AOMEI Backupper Technician Plus</a><a class="bg" href="buy-ab-techplus.html?drop-menu">Buy</a><a class="bg bg2" href="http://www.aomeisoftware.com/download/adb/ABServer.exe" target="_blank">Try</a></dd>
+	      						<dd><a href="edition-comparison.html">Edition Comparison</a></dd>
+	      					</dl>	      							
+      					</div>     					      					
+      				</div>
+      			</li>
+      			<li class="show">
+      				<a>UTILITIES</a>
+      				<div class="hide-content hide-content2" >
+      					<div class="wrapper">
+	      					<dl class="eq1 hover-bg2">
+	      						<dt class="ic1">OneKey System Backup & Recovery</dt>
+	      						<dd class="hover-bg1"><a class="icon-free" href="okr-free.html">AOMEI OneKey Recovery</a><a class="bg1" href="http://www.aomeisoftware.com/download/ok/OneKeyFree.exe" target="_blank"></a><a class="up" href="onekey/upgradeto.html?drop-menu"></a></dd>
+	      						<dd><a href="onekey-pro.html">AOMEI OneKey Recovery Pro</a><a class="bg" href="onekey-buy.html?drop-menu">Buy</a><a class="bg bg2" href="http://www.aomeisoftware.com/download/ok/OneKeyDemo.exe" target="_blank">Try</a></dd>
+	      						<dd><a href="onekey-pro.html">AOMEI OneKey Recovery Family Pack</a><a class="bg" href="onekey-buy.html?drop-menu">Buy</a><a class="bg bg2" href="http://www.aomeisoftware.com/download/ok/OneKeyDemo.exe" target="_blank">Try</a></dd>
+	      						<dd><a href="onekey-tech.html">AOMEI OneKey Recovery Technician</a><a class="bg" href="onekey-buy.html?drop-menu">Buy</a><a class="bg bg2" href="http://www.aomeisoftware.com/download/ok/OneKeyDemo.exe" target="_blank">Try</a></dd>
+	      						<dd><a href="onekey-tech.html">AOMEI OneKey Recovery Customization</a><a class="bg" href="onekey-buy.html?drop-menu">Buy</a><a class="bg bg2" href="http://www.aomeisoftware.com/download/ok/OneKeyDemo.exe" target="_blank">Try</a></dd>
+	      						<dd><a href="onekey/okr-compare.html">Edition Comparison</a></dd>
+	      					</dl>
+	      					<div class="eq2">
+	      						<dl class="hover-bg2">
+		      						<dt class="ic2">Deploy Image to Multiple Computers</dt>
+		      						<dd class="hover-bg1"><a class="icon-free" href="image-deployment-software.html">AOMEI Image Deploy </a><a class="bg1" href="http://www.aomeisoftware.com/download/aid/DeployFree.exe" target="_blank"></a></dd>
+		      						<dd class="hover-bg1"><a href="image-deployment-software.html">AOMEI Image Deploy Technician</a><a class="bg" href="https://www.backup-utility.com/image-deployment-software.html#compare">Buy</a></dd>	      						
+		      					</dl>
+		      					<dl>
+		      						<dt class="ic3">Network Boot Solution For Backup & <span>Recovery</span></dt>
+		      						<dd class="hover-bg1"><a class="icon-free" href="pxetool.html">AOMEI PXE Boot</a><a class="bg1" href="http://www.aomeisoftware.com/download/pxe/PXEBoot.exe" target="_blank"></a></dd>	      						
+		      					</dl>	      
+	      					</div>
+	      					<dl>
+	      						<dt class="ic4">Move, Backup, Restore Oculus Games</dt>
+	      						<dd class="hover-bg1"><a class="icon-free" href="http://www.aomeitech.com/oculus-backup.html" target="_blank">vrBackupper </a><a class="bg1" href="http://www.aomeisoftware.com/download/vr/vrBackupper.exe" target="_blank"></a><a class="bg2" href="http://www.aomeitech.com/oculus-game-mover.html" target="_blank"></a> </dd>     						
+		      				</dl>	    			
+      					</div>     					
+      					<div class="buy-msg">
+      						<p>Customize user interface (UI), including logo, texts, links, images, and can be preinstalled with your own products and distribute to your clients.</p>
+      						<a href="onekey-tech.html" class="more more-bg">Learn More</a>
+      					</div>
+      				</div>
+      			</li>
+      			<li class="show">
+		      				<a href="/downloads.html">DOWNLOADS </a>
+      				<div class="hide-content hide-content5">
+      					<div class="wrapper">
+	      					<dl class="eq1 hover-bg2">
+	      						<dd><a class="icon-free" href="download.html">AOMEI Backupper Standard </a></dd>
+	      						<dd><a class="icon-free icon30" href="free-trial.html">AOMEI Backupper Free Trial </a></dd>	      						
+	      					</dl>	      							
+      					</div>     					      					
+      				</div>
+      			</li>
+      			<li class="show last">
+      				<a href="support.html">SUPPORT</a>
+      				<div class="hide-content hide-content3">
+      					<div class="wrapper">
+	      					<dl class="eq1">
+	      						<dt class="ic1">About AOMEI</dt>
+	      						<dd><a href="company.html">Company</a></dd>
+	      						<dd><a href="contact-us.html">Contact Us</a></dd>
+	      						<dd><a href="partner.html">Partners</a></dd>
+	      						<dd><a href="http://www.aomeitech.com/forum/" target="_blank">Forum</a></dd>
+	      						<dd><a href="reviews.html">Awards & Reviews</a></dd>
+	      						<dd><a href="stories.html">What Our Users Say</a></dd>
+	      						<dd><a class="icon-gift" href="http://www.aomeitech.com/help-us-translate.html" target="_blank">Help Us Translate</a></dd>
+	      						<dd><a href="http://www.aomeitech.com/newsletter.html" target="_blank">Join Our Newsletter</a></dd>
+	      					</dl>
+	      					<dl class="eq2">
+	      						<dt class="ic2">Product Management</dt>
+	      						<dd><a href="overview.html">Product Overview</a></dd>
+	      						<dd><a href="changelog.html">Product Changelogs</a></dd>
+	      						<dd><a href="upgrade.html">Product Upgrade</a></dd>
+	      						<dd><a href="license.html">License Types</a></dd>
+	      						<dd><a href="edition-comparison.html">Compare Product</a></dd>					
+	      					</dl>
+	      					<dl>
+	      						<dt class="ic3">Documentation</dt>
+	      						<dd><a href="help/index.html">Help Documents</a></dd>
+	      						<dd><a href="features/index.html">Features List</a></dd>
+	      						<dd><a href="screenshot.html">Screenshots</a></dd>
+	      						<dd><a href="videos.html">Video Tutorials</a></dd>
+	      						<dd><a href="help/technical-faq.html">Technical FAQs</a></dd>
+	      						<dd><a href="purchase-faq.html">Sales FAQs</a></dd>
+	      					</dl>	      					
+      					</div>    
+      					<div class="buy-msg">     						
+      						<p>The easiest Windows PC backup, restore, sync and clone software for Windows 10/8.1/8/7/Vista/XP. One license is for 2 PCs.</p>
+      						<a href="professional.html" class="more more-bg">Learn more</a>
+      					</div>
+      				</div>
+      			</li>
+
+      		</ol>
+      	</div>
+      </div>
+    </div>
+  </div> 	
+</div>
+<div class="wrap-header"></div>
+<!--header end-->
+<div id="banner">
+	<div class="center-block">
+		<div class="container">
+			<h1>{c1}</h1>
+			<p class="font-size20">{c2}</p>
+			<p class="font-size20">{c3}</p>
+		</div>
+	</div>
+</div>
+<div class="about">
+	<div class="center-block">
+		<div class="container">
+			<h2>A Brief Introduction About AOMEI</h2>
+			<p class="title">AOMEI Technology is an up-and-coming provider of innovative hard disk partition management, reliable backup & restore solution, and easy cloud storages management for home and business users all over the world. We have started to research in the field since 2009 and enjoyed great prestige. Our mission is to optimize system and optimize life by developing easy-to-use and reliable software continuously and turn the world's top technologies into cost-effective solutions to let users benefit from it.</p>
+			<p class="title">We provide high quality software services to customers all around the globe, like USA, UK, Italy, France, Germany, Singapore, Israel, Australia, New Zealand, Brazil, India, etc. We have a big team of professional technicians on file systems, backup restore and partition management who do research and development continuously to provide excellent software for our customers including enterprises, colleges, government sectors, institutions, IT agent, personal users, commercial users, etc.</p>
+			<p class="title last">AOMEI, known for its ease of use, has been one of the best brands in disk & partition management and backup & recovery fields. We are enthusiastic in our daily work for providing the best software for clients and we believe we can work miracles.</p>
+			<ul>
+				<li class="mobile-block">
+					<img src="images/company/bg-Mission.jpg"/>
+					<div class="msg">
+						<h4>AOMEI Mission</h4>
+						<p>AOMEI aims to provide the easiest yet reliable backup service to let customers say NO to data loss. We're picky about every detail just to ensure our customers have the best backup service on the planet.</p>
+					</div>
+				</li>
+				<li class="last mobile-block">
+					<img src="images/company/bg-Willing.jpg"/>
+					<div class="msg">
+						<h4>AOMEI Willing</h4>
+						<p>To let hundreds of millions of users benefit from AOMEI Products, and make AOMEI a pioneer in the field of Partition and backup.</p>
+					</div>
+				</li>
+			</ul>
+		</div>		
+	</div>
+</div>
+<div class="product-comparison">
+	<div class="center-block">
+		<div class="container">
+			<h2>AOMEI’s Main Products</h2>
+			<ul>				
+				<li class="mobile-block">
+					<img src="images/company/ic-ab.png"/>
+					<h4>AOMEI Backupper</h4>
+					<p>It’s a backup and restore software, supports system backup and files backup, disk imaging and disk cloning, system migration, etc.</p>
+					<a href="index.html" class="more more-bg">Learn more</a>
+				</li>
+				<li class="mobile-block">
+					<img src="images/company/ic-pa.png"/>
+					<h4>AOMEI Partition Assistant</h4>
+					<p>It’s a disk partition management software, supports resizing partition, creating partition, merging partitions, recovering partition, etc.</p>					
+					<a href="http://www.disk-partition.com" class="more more-bg" target="_blank">Learn more</a>
+				</li>
+				<li class="mobile-block">
+					<img src="images/company/ic-mc.png"/>
+					<h4>Multcloud</h4>
+					<p>It's a free web app for managing files across multiple cloud drives, and supports transferring files from Dropbox to Google Drive.</p>
+					<a href="https://www.multcloud.com" class="more more-bg" target="_blank">Learn more</a>
+				</li>
+			</ul>
+			<p class="font-size14">To learn details about other AOMEI products, please click <a href="personal.html" class="link">here</a>.</p>
+		</div>
+	</div>
+</div>
+<div class="address">
+	<div class="center-block">
+		<div class="container">
+			<div class="msg mobile-block">
+				<dl>
+					<dt class="eq eq1">Company Location</dt>
+					<dd><strong>CHENGDU AOMEI Technology Co., Ltd.</strong></dd>
+					<dd><strong>Address: </strong> 17F, Chamber of Commerce Tower, NO.100 East Main Street, Jinjiang District, Chengdu City, China</dd>
+					<dd><strong>Postcode: </strong>610061</dd>
+				</dl>
+				<dl class="last">
+					<dt class="eq eq2">Contact Us</dt>
+					<dd>You can email us to know more about AOMEI Technology via <a class="link" href="mailto:support@aomeitech.com">support@aomeitech.com</a> or click <a class="link" href="contact-us.html">here</a>.</dd>
+				</dl>
+			</div>
+			<div class="map mobile-block" id="map">
+			</div>
+		</div>
+	</div>
+</div>
+<div id="tool">
+	<div class="return-top"></div>
+	<div class="share">
+		<ul>
+			<li class="facebook"></li><li class="twitter"></li><li class="google"></li>
+		</ul>
+	</div>		
+</div>
+<!--footer start-->
+<div id="footer">
+	<div class="center-block">
+		<div class="container">
+			<dl>
+				<dt>Products</dt>
+				<dd class="font-size16">For PCs & Laptops</dd>
+				<dd><a class="icon-free" href="free-backup-software.html">AOMEI Backupper Standard </a></dd>
+				<dd><a href="professional.html">AOMEI Backupper Professional</a></dd>
+				<dd class="font-size16">For Physical & Virtual Servers</dd>
+				<dd><a href="server.html">AOMEI Backupper Server </a></dd>
+				<dd class="font-size16">For Enterprises & Service Providers</dd>
+				<dd><a href="technician.html">AOMEI Backupper Technician Plus </a></dd>
+				<dd class="font-size16">For Edition Comparison</dd>
+				<dd><a href="edition-comparison.html">Compare Products</a></dd>
+			</dl>
+			<div class="center">
+				<dl>
+					<dt>Tools & Freeware</dt>
+					<dd ><a href="onekey-recovery.html">AOMEI OneKey Recovery </a></dd>
+					<dd><a href="free-partition.html">AOMEI Partition Software</a></dd>
+					<dd><a href="image-deployment-software.html">AOMEI Image Deploy</a></dd>
+					<dd><a href="pxetool.html">AOMEI PXE Boot </a></dd>
+					<dd><a href="pe-builder.html">AOMEI PE Builder</a></dd>
+					<dd><a href="multcloud.html">MultCloud - Cloud Files Transfer & Sync</a></dd>
+				</dl>
+				<dl>
+					<dt>Documentation</dt>
+					<dd><a href="help/index.html">Help Documents</a></dd>
+					<dd><a href="features/index.html">Features List</a></dd>
+					<dd><a href="tutorials.html">Articles & Tutorials</a></dd>					
+				</dl>
+			</div>			
+			<dl class="last">
+				<dt>Support</dt>
+				<dd>
+					<div class="leftsidebar">
+						<p><a href="upgrade.html">Product Upgrade</a></p>
+						<p><a href="support.html">Support & FAQ</a></p>
+						<p><a href="partner.html">Partners</a></p>
+						<p><a href="contact-us.html">Contact Us</a></p>
+						<p><a href="http://www.aomeitech.com/forum/" target="_blank">Forum</a></p>
+					</div>
+					<div class="rightsidebar">
+						<p class="font-size16">AOMEI Connect</p>
+						<div class="friendlink">
+							<a href="https://www.facebook.com/aomeitechnology" class="facebook" target="_blank"></a>
+							<a href="https://twitter.com/aomeitech" class="twitter" target="_blank"></a>
+							<a href="https://plus.google.com/u/0/101455811842642401178/posts" class="google" target="_blank"></a>
+							<a href="http://www.youtube.com/user/AomeiTech" class="youtube" target="_blank"></a>
+						</div>
+						<form id="send-email">
+							<p class="font-size16">Subscribe to Our Newsletter</p>
+							<input type="text" name="" id="email-txt" placeholder="Your Email" />
+							<input type="button" name="" id="email-btn" value="Confirm" />
+						</form>
+					</div>
+				</dd>
+			</dl>
+		</div>
+	</div>
+	<div class="footer-two">
+		<div class="center-block">
+			<div class="container">
+				<p>© 2009-2017 AOMEI. All rights reserved.</p>
+				<ul>
+					<li><a href="eula.html">EULA</a> |</li>
+					<li><a href="privacy.html">Privacy Policy </a> |</li>
+					<li><a href="terms.html">Terms of Use</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<!--footer end-->
+<script src="public/js/require.js" data-main="public/js/main.js"></script>
+<script src="public/js/gg.js"></script>
+<script>
+    function initMap() {
+        var uluru = {lat: 30.645796, lng: 104.092211};
+        var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 18,
+            center: uluru
+        });
+        var marker = new google.maps.Marker({
+            position: uluru,
+            map: map
+        });
+    }
+</script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBKBJcLaFBfVfIq2NoRPe6IXAreCdslPuY&callback=initMap">
+</script>
+</body>
+</html>
