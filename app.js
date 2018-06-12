@@ -4,9 +4,13 @@ const cheerio = require('cheerio');
 
 const cfgDir = path.resolve(__dirname, './config');
 const viewsDir = path.resolve(__dirname, './views');
+const oldviewsDir = path.resolve(__dirname, './oldviews');
 
 const language = 'en'; // 执行程序前请先确认多语言版本
 
+const resolveOldPages = require('./controller/resolveOldPages');
+
+// return;
 /**
  * 读取模版
  * @param {模板文件的目录 string} fileName 
@@ -41,10 +45,11 @@ const getTplCfg = function (fileName,language) {
 }
 /**
  *
- * @param {模板文件的目录 string} tpldir 
+ * @param {模板文件的目录 string 默认'./templetes'} tpldir 
  */
 const resolvTpl = function (tpldir) {  
-	const tplInfo = getTplFile(tpldir);
+	let tplDir = tpldir || './templetes';
+	const tplInfo = getTplFile(tplDir);
 	for (let i = 0; i < tplInfo.length; i++) {
 		const info = tplInfo[i];
 		const fileName = info.fileName;
@@ -52,7 +57,7 @@ const resolvTpl = function (tpldir) {
 		console.log(fileName);
 		
 		let tplCfg = getTplCfg(fileName, language);
-		const $ = cheerio.load(fileText);
+		const $ = cheerio.load(fileText,{decodeEntities:false}); // 参数解决乱码
 		let tplHtml = $.html();
 
 		const reg = /(?<=[>|"|'])\{[a-zA-Z]+.*\}(?=[<|"|'])/img; // 匹配形如'{*}'的标识符
@@ -68,4 +73,5 @@ const resolvTpl = function (tpldir) {
 		});
 	}
 }
-resolvTpl( './templetes');
+resolvTpl();
+resolveOldPages(oldviewsDir);
